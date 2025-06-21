@@ -1,4 +1,3 @@
-# ChurnSight
 # 📉 ChurnSight: Telecom Customer Retention Analytics
 
 **ChurnSight** is a data analysis project focused on understanding and reducing customer churn in the telecom industry. Using Python and pandas, this project explores customer behavior patterns, service usage, and contract details to extract actionable insights.
