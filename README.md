@@ -75,9 +75,6 @@ ChurnSight/
 
 If you're interested in churn analysis, telecom analytics, or customer retention strategies — let's connect!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📫 your.email@example.com
-
 ---
 
 ## 🏷️ Tags
